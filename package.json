@@ -1,0 +1,21 @@
+{
+  "name": "clipscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leo60228",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "child-process-promise": "^2.2.1",
+    "clipboardy": "^1.2.3",
+    "file-exists-promise": "^1.0.2",
+    "iohook": "^0.3.1",
+    "node-notifier": "^5.3.0",
+    "robotjs": "^0.5.1",
+    "sleep-promise": "^8.0.1"
+  },
+  "devDependencies": {}
+}
